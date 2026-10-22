@@ -1,6 +1,6 @@
 function personDetails(){
 
-console.log("Person Name is : Krish")
+console.log("Person Name is : KAran")
 
   
 }
